@@ -25,5 +25,7 @@ To run the notebook:
 2. Navigate to the location of the using-ml-to-analyze-the-2022-brazilian-elections.ipynb file.
 3. Open the notebook and run the cells sequentially to perform the analysis.
 
+#### PS.: in the Data Ingestion phase, item 2.2, there is a cell dedicated to run the "Bra Scraper 2022" which is essentially the web scraper bot that gets all the desired data of EVMs from the TSE website. If necessary, run it apart from the Notebook.
+
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
